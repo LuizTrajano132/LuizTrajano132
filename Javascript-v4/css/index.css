@@ -1,0 +1,43 @@
+.label-error {
+    color: red;
+}
+
+.form-error {
+    border: solid 1px red;
+}
+
+
+
+
+
+.side-navbar {
+    width: 180px;
+    height: 100%;
+    position: fixed;
+    margin-left: -300px;
+    background-color: #100901;
+}
+
+.nav-link:active,
+.nav-link:focus,
+.nav-link:hover {
+    background-color: #ffffff26;
+}
+
+.menu-lateral-ativo {
+    margin-left: 0;
+}
+
+/* for main section */
+.conteudo-principal{
+    margin-top: 55px;
+}
+.conteudo-principal-ativo {
+    margin-left: 180px;
+}
+
+#menu-btn {
+    background-color: #100901;
+    color: #fff;
+    margin-left: -10px;
+}
